@@ -1,10 +1,12 @@
+
 # GitHub Collaboration Workshop Repository - Version A
+
+
 
 This repository is used in a workshop focused on learning collaboration practices with Git and GitHub using a document-based workflow.
 
 The goal is to simulate a small documentation project where multiple collaborators work on different documents, propose changes through branches and pull requests, review each other's work, and handle merge conflicts.
 
-# GitHub Collaboration Workshop Repository - Version B
 
 All editable content for this workshop lives in the `docs/` directory:
 
