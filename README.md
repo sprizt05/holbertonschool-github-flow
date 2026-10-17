@@ -1,4 +1,4 @@
-# GitHub Collaboration Workshop Repository
+GitHub Collaboration Workshop Repository - Version B)
 
 This repository is used in a workshop focused on learning collaboration practices with Git and GitHub using a document-based workflow.
 
